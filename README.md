@@ -1,7 +1,7 @@
 # Real-Time Chat Application
 
 ## 🚧 Project Status
-**Work in Progress (WIP)**  
+*Work in Progress (WIP)*
 Frontend development is currently in progress. Backend and real-time features are planned.
 
 ---
