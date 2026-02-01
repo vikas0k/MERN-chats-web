@@ -34,8 +34,8 @@ const Sidebar = ({selectedUser,setSelectUser}) => {
                 <p>{user.fullName}</p>
                {
                 index < 3
-                ? <span className='text-green-400 text-xs'>online</span>
-                : <span className='text-neutral-400 text-xs'>offline</span>        
+                ?  <span className='text-green-400 text-xs'>online</span>
+                :  <span className='text-neutral-400 text-xs'>offline</span>        
                }
               </div>
               {index >2 && <p className='absolute top-4 right-4 text-xs h-5 w-5 flex justify-center  items-center rounded-full bg-violet-500/50'>
