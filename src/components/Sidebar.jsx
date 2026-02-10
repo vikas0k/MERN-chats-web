@@ -33,7 +33,7 @@ const Sidebar = ({selectedUser,setSelectUser}) =>  {
               <div className='flex flex-col leading-5'>
                 <p>{user.fullName}</p>
                {
-                 index < 3
+                index < 3
                 ?  <span className='text-green-400 text-xs'>online</span>
                 :  <span className='text-neutral-400 text-xs'>offline</span>        
                }
