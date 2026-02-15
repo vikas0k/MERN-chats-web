@@ -3,8 +3,8 @@
 
 const RightSidebar = ({selectedUser}) => {
   return selectedUser &&(
-    <div className={`bg-[#8185B2]/10 text-white w-full relative overflow-y-scroll
-    ${ selectedUser ? "max-md:hidden" : ""}`}>
+    < div className={`bg-[#8185B2]/10 text-white w-full relative overflow-y-scroll
+    ${ selectedUser ? "max-md:hidden" : ""}`} >
 
      <div className='pt-16 flex flex-col items-center gap-2 text-xs font-light'
      ><img src={selectedUser?.profilePic || assets.avatar_icon} alt="" 
