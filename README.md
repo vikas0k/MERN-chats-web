@@ -41,7 +41,7 @@ and deploy the application for public use.
 ---
 
 ## 🔜 Planned Features
-- Real-time messaging with Socket.io
+- Real-time messaging with the help of Socket.io
 - User authentication using JWT
 - Online/offline user status
 - Message timestamps & read receipts
