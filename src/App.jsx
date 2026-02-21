@@ -13,7 +13,7 @@ const App = () => {
         <Route path='/login' element={<LoginPage />}/> 
       </Routes>
      </div>
-   )
+  )
 }
 
 export default App
