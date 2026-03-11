@@ -26,7 +26,7 @@ const RightSidebar = ({selectedUser}) => {
         <img src={url} alt="" className='h-full rounded-md' />
   </div>
 
-))}
+ ))}
         </div>
       </div>
 
