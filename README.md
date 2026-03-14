@@ -4,7 +4,7 @@
 *Work in Progress (WIP)*
 Frontend development is currently in progress. Backend and real-time features are planned.
 
----
+--
 
 ## 📌 Overview
 This is a real-time chat application being built using the **MERN stack** and **Socket.io**.
