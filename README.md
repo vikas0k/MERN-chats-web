@@ -8,7 +8,7 @@ Frontend development is currently in progress. Backend and real-time features ar
 
 ## 📌 Overview
 This is a real-time chat application being built using the **MERN stack** and **Socket.io**.
-The goal of this project is to enable instant messaging between users without page reloads
+The goal of this project is to enable instant messaging between users without page reloads 
 and deploy the application for public use.
 
 ---
