@@ -30,7 +30,7 @@ and deploy the application for public use.
 - Vercel (Frontend)
 - Cloud-hosted backend
 
----
+--
 
 ## ✨ Current Features
 - Chat UI layout
