@@ -11,7 +11,7 @@ This is a real-time chat application being built using the **MERN stack** and **
 The goal of this project is to enable instant messaging between users without page reloads 
 and deploy the application for public use.
 
----
+--
 
 ## 🛠 Tech Stack
 
